@@ -1,5 +1,5 @@
 # ghostbsd-slim-theme
-GhostBSD theme for SLiM
+GhostBSD themes for SLiM
 
 ## What is SLiM?
 [SLiM](https://sourceforge.net/projects/slim.berlios/) is an acronym for "Simple Login Manager". Lightweight and easily configurable, SLiM requires minimal dependencies, and none from the *GNOME* or *KDE* desktop environments. It therefore contributes towards a lightweight system for users that also like to use lightweight desktops such as *MATE*, *Xfce*, *Openbox*, and *Fluxbox*. 
