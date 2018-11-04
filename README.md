@@ -21,6 +21,6 @@ current_theme       material
 
 ## Final Words
 
-- You may have to edit some panels *(like, to change user images)* according to your need.
+- You can to edit some panels *(like, to change user images)* according to your need.
 - Enjoy...!
 
